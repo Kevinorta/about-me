@@ -1,7 +1,7 @@
 ##About Me
 
-Kevin Orta
-Email: Kevino6532@Hstat.org
+Kevin Orta  
+Email: Kevino6532@Hstat.org  
 School: High School of Telecommunication Art and Technology.  
 I am a software engineering student in the SEP program at HSTAT.  
 
