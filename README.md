@@ -19,7 +19,7 @@ I am a software engineering student in the SEP program at HSTAT.
 
 ---
 
-####Favorite Activities
+#####Favorite Activities
 * Watching Youtube
 * Card tricks
 * Video Games
